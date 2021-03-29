@@ -1,5 +1,5 @@
-# hassio-repository
-Scott McCauley's repository of Hass[]().io add-ons.
+# hassio-repository-beta
+Scott McCauley's **beta** repository of Hass[]().io add-ons.
 
 ## WARNING! THIS IS A BETA REPOSITORY
 
