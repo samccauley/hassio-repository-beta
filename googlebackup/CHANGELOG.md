@@ -1,1 +1,1 @@
-Rolled httplib2 back from 0.19.0 to 0.15.0 due to issue with Google Auth
+Rolled httplib2 back from 0.19.0 to 0.15.0 due to Google Auth issue
